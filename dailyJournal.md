@@ -33,4 +33,23 @@ What is a canvas element?
 > <canvas> is similar to the <img> element but one difference is that <canvas> element have closing </canvas> tags.
 
 
+Monday:  December 18, 2017
+Today we learned about media tags using JavaScript and HTML. We learned about start and pause tags that allows us to play/pause music and videos. 
+Sample code from class: github.com link: https://github.com/codefellows/seattle-201d29/blob/master/11-audio_video_tracker/lecture/app.js
+Usestrict';
+	
+	var video = document.getElementById('lecture-audio');
+	var start = document.getElementById('audio-start');
+	var pause = document.getElementById('audio-pause');
+	
+	function handleAudioStart() {
+	  video.play();
+	}
+	
+	function handleAudioPause() {
+	  video.pause();
+	}
+	
+	start.addEventListener('click', handleAudioStart);
+	pause.addEventListener('click', handleAudioPause);
 
