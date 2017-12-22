@@ -1,3 +1,16 @@
+Date: Thursday 12.21.17
+
+Review of next course "Course 301" -- by Brian
+propal syntex of object lateral:
+    var car = { 
+make: 'toyota', // data-type = 'string', mike = property, 'yotota' = value of the property.
+model: 'camry', // data-type = 'string', model = property, 'camry' = value of the property.
+year: 2015, // data-type: intiger; year = property, 2015 = value of the property  
+};
+
+Today I went over some of our topics to learned more about the different parts of functions, objects to get getter understanding of what each part means and what they do...
+
+
 Date: Wednesday 12.20.2017 --- 
 Today I learned about creating a learning mindset and being open to the learning process, even when it is difficult. And this is especially true in the technical industry (on the job) where tools and practices are changing at a fast rate. Being able to commit to learning and applying myself… “If you stick to it and complete 401 you will be able to perform, and develop the mindset to learn things you don’t already know….” 
 Topic: Persistence layer – how long will/can your data persistence? 
