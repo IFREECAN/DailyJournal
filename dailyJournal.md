@@ -1,3 +1,15 @@
+
+
+
+
+
+****************************************************************************************************************************
+Date: Sunday 12.24.14
+
+While preparing to 301 entrance test I read the chapter called "THE ABC OF PROGRAMMING" from our textbook. 
+Even though I know the main functions of HTML, CSS and JavaScript on a website, re-reading this chapter helped reinforced and clarify some information.
+
+****************************************************************************************************************************
 (weekIII) Date: Friday 12.22.17
 
 Today we did an overview of course 201 and what to expect in 301 and 401.
@@ -96,7 +108,7 @@ We also review this weeks project and topics.
 (weekII) Thursday: December 14, 2017
     CSS layout (pages: 358-403)
 
-Web browsers will display images in normal flow unless developers specify the relative, absolute or fixed poistion(s) of contents. CSS Frameworks provide rules for common tasks. 
+Web browsers will display images in normal flow unless developers specify the relative, absolute or fixed position(s) of contents. CSS Frameworks provide rules for common tasks. 
 CSS treats HTML elements as indivicual boxed items and the boxed element are either block-level or inline-level. 
 Example of inline-level elements are <img>, <b> </b> and <i></i>; while some examples of block-level elements are <h1></h1>, <p></p> and <ul> <li></li></ul>. 
 Position schemes for SCC are normal flow, relative positioning, and absolute positioning. Each of these schemes allows developers to control the layout of a webpage. 
